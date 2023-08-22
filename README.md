@@ -33,7 +33,7 @@ As I continue learning about data structures, I'll update the repository with my
 
 If you're new to this repository, here's how you can get started:
 
-1. Clone the repository using `git clone https://github.com/your-username/data-structures-learning.git`.
+1. Clone the repository using `git clone https://github.com/KamyarEngSci/data-structure-.git`.
 2. Navigate through the folders to explore different data structures.
 3. Each folder contains my notes, code samples, and my thoughts as I learn.
 
