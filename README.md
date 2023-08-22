@@ -10,7 +10,7 @@ Welcome to my Data Structures Learning Journey repository! This space is where I
 - [Getting Started](#getting-started)
 - [What You'll Find Here](#what-youll-find-here)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -48,9 +48,6 @@ Each data structure folder contains:
 
 While I'm still a learner, I welcome contributions from fellow enthusiasts. If you spot any mistakes, have suggestions, or want to add your own insights, feel free to contribute!
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
 
 Let's learn and grow together on this exciting data structures journey!
 
