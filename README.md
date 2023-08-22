@@ -43,8 +43,7 @@ If you're new to this repository, here's how you can get started:
 The repository is organized into folders, each dedicated to a specific data structure. Inside each folder, you'll find:
 
 - A `README.md` file explaining the data structure's concepts and usage.
-- Code examples in various programming languages.
-- Links to further resources for deeper learning.
+- Code examples in python programming languages.
 
 ## Contributing
 
